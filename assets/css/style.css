@@ -1,0 +1,132 @@
+/*div{
+	border: 1px solid red;
+}*/
+
+.logo{
+	width: 275px;
+	height: 50px;
+}
+
+.show-on-scroll{
+	padding:10px;
+	background-color: #0b2f58;
+/*	background-color: rgba(40,202,200,.9);
+*/}
+
+.navbar-nav > li > a {
+	color: white;
+	font-size: 15px;
+	margin-left: 10px;
+}
+
+#STFquote{
+    background-color: white;
+    color: white;
+    background-image: url(../images/girl.jpg);
+    background-repeat: round;
+    margin:0;
+	padding-top: 200px;
+	width: 100%;
+	height:400px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.impact{
+    background-color: white;
+    font-family: 'Eczar', serif;
+    color: white;
+    background-image: url(../images/00.jpg);
+    background-repeat: round;
+    margin:0;
+	width: 100%;
+	height:400px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center; 
+	padding: 40px; 
+	background-color: 
+	lightgray; 
+}
+
+.contact{
+	font-family: 'Eczar', serif;
+	text-align: center;
+	margin-top: 1%;
+	background-image: url(../images/4.jpg);
+    background-repeat: round;
+    margin:0;
+	width: 100%;
+	height:200px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color:white;
+}
+
+.contactImages{
+	width: 75px;
+    height: 75px;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+
+body{
+    background: white;
+    color:black;
+    width: 100%;
+	height:400px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	border-bottom: solid black 1px;
+
+}
+
+.iframe{
+	border:0; 
+	box-shadow: 10px 10px 5px #2e2b2b70;
+}
+.location{
+	text-align: center;
+    background: lightgray;
+    color: white;
+    padding: 56px;
+    background-image: url(../images/0.png);
+    width: 100%;
+	height:400px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#STFquote, #join{
+	font-family: 'Eczar', serif;
+}
+
+
+footer {
+  /* Box-model */
+  padding: 10px 0;
+
+  /* Positioning */
+  clear: both;
+  font-size: 12px;
+
+  /* Typography */
+  color: #ccc;
+  text-align: center;
+
+  /* Visual */
+  background: #0a0219;
+  border-top: 3px solid #ccc;
+  margin-top: 0px;
+}
